@@ -1,0 +1,25 @@
+header {
+    background-image: url("https://github.com/breatheco-de/exercise-collaborative-html-website/blob/master/website1/assets/img/bg.jpg?raw=true");
+    background-size: cover;
+    height: 50rem;   
+    background-repeat: no-repeat;
+}
+h1 {
+    font-size: 7vw;
+}
+h2 {
+    font-size: 4vw;
+}
+.title {
+    margin-top: 8rem;
+}
+.subtitle {
+    margin-top: 2rem;
+}
+.sections {
+    height: 22rem;
+}
+.sections img {
+    max-width: 80%;
+    max-height: 100%;
+}
